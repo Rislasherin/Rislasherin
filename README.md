@@ -1,4 +1,4 @@
-# Risla Sherin C
+# Risla Sherin
 
 Backend Engineer | Node.js | TypeScript | MongoDB
 
@@ -6,9 +6,11 @@ Backend Engineer | Node.js | TypeScript | MongoDB
 
 ## About
 
-I am a backend developer focused on building web applications using Node.js, TypeScript, and MongoDB.
+I am a backend developer focused on building real-world web applications and scalable systems.
 
-I enjoy learning system design and building scalable backend systems.
+I enjoy solving problems behind how platforms work — like user management, data flow, and system design in products such as e-commerce and SaaS platforms.
+
+Currently, I am also improving my problem-solving skills through DSA and learning how large systems are designed in production environments.
 
 ---
 
@@ -19,24 +21,28 @@ I enjoy learning system design and building scalable backend systems.
 - React, Next.js  
 - MongoDB, Sql
 - REST APIs, JWT Authentication  
+- SaaS / B2B Application Development (CareerHub project experience)  
+- System Design Basics  
+- Data Structures & Algorithms (DSA)  
 - Git, GitHub, Docker  
 
 ---
 
-## Projects
+## Main Projects
 
 **E-Commerce Platform**  
-Full-stack e-commerce app with products, cart, authentication, and orders.
+Full-stack application with products, cart, authentication, and order management.
 
-**BC2 SaaS Platform**  
-SaaS application with authentication and role-based access.
+**BC2 SaaS / CareerHub Platform**  
+B2B SaaS-style platform with authentication, role-based access, and structured backend design.
 
 ---
 
 ## Focus
 
 - Backend Development  
-- System Design Basics  
+- SaaS & B2B Systems  
+- System Design  
 - API Development  
 - Clean Architecture  
 
@@ -44,6 +50,6 @@ SaaS application with authentication and role-based access.
 
 ## Learning
 
-- System Design  
-- Scalable Backend Systems  
-- SaaS Architecture
+- Advanced System Design  
+- Scalable SaaS Applications  
+- DSA for Problem Solving  
