@@ -1,16 +1,52 @@
-## Hi there 👋
+# Risla Sherin
 
-<!--
-**Rislasherin/Rislasherin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer | Node.js | TypeScript | MongoDB
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+I am a backend developer focused on building web applications using Node.js, TypeScript, and MongoDB.
+
+I enjoy learning system design and building scalable backend systems.
+
+---
+
+## Skills
+
+- JavaScript, TypeScript  
+- Node.js, Express.js  
+- React, Next.js  
+- MongoDB  
+- REST APIs, JWT Authentication  
+- Git, GitHub, Docker  
+
+---
+
+## Projects
+
+**E-Commerce Platform**  
+Full-stack e-commerce app with products, cart, authentication, and orders.
+
+**Next.js Clean Architecture (TypeScript)**  
+Project built using clean architecture principles with TypeScript.
+
+**BC2 SaaS Platform**  
+SaaS application with authentication and role-based access.
+
+---
+
+## Focus
+
+- Backend Development  
+- System Design Basics  
+- API Development  
+- Clean Architecture  
+
+---
+
+## Learning
+
+- System Design  
+- Scalable Backend Systems  
+- SaaS Architecture
