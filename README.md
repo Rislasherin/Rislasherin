@@ -17,7 +17,7 @@ I enjoy learning system design and building scalable backend systems.
 - JavaScript, TypeScript  
 - Node.js, Express.js  
 - React, Next.js  
-- MongoDB  
+- MongoDB, Sql
 - REST APIs, JWT Authentication  
 - Git, GitHub, Docker  
 
@@ -27,9 +27,6 @@ I enjoy learning system design and building scalable backend systems.
 
 **E-Commerce Platform**  
 Full-stack e-commerce app with products, cart, authentication, and orders.
-
-**Next.js Clean Architecture (TypeScript)**  
-Project built using clean architecture principles with TypeScript.
 
 **BC2 SaaS Platform**  
 SaaS application with authentication and role-based access.
