@@ -1,6 +1,6 @@
 # Risla Sherin
 
-Backend Engineer | Node.js | TypeScript | MongoDB
+Backend Engineer | Node.js | TypeScript | MongoDB | Next.js | javaScript
 
 ---
 
